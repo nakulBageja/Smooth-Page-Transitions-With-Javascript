@@ -3,6 +3,7 @@
     "sass": "^1.29.0"
   },
   "dependencies": {
+    "@dogstudio/highway": "^2.2.1",
     "gsap": "^3.5.1"
   }
 }
